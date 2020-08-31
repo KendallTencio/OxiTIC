@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OxiTIC</string>
+    <string name="botonSOS">S.O.S.</string>
+    <string name="estadoTitulo">Estado</string>
+    <string name="botonInfo">i</string>
+    <string name="RRTitulo">RR</string>
+    <string name="SpTitulo">SpO2</string>
+</resources>
