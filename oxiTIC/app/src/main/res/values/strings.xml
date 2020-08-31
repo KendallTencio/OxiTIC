@@ -5,4 +5,6 @@
     <string name="botonInfo">i</string>
     <string name="RRTitulo">RR</string>
     <string name="SpTitulo">SpO2</string>
+    <string name="botonAPaciente">Oxímetro de Paciente</string>
+    <string name="botonAControl">Control de Pacientes</string>
 </resources>
